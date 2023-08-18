@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bempus
 - 👀 I’m interested in Backend webdevelopment
-- 🌱 I’m currently learning Next JS, Powershell Web Applicaitons
+- 🌱 I’m currently learning Next JS, Powershell Web Applications,PHP,HTMX,and anything else I can find
 - 📫 How to reach me:
   - Email: [bempus](mailto:bempus@q-er.live)
 
